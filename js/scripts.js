@@ -1,4 +1,4 @@
-const apiKey = "2d71f566e7d6b5292408d0a237e321b8";
+const apiKey = "82005d27a116c2880c8f0fcb866998a0"; /* CHAVE ALEATORIA DA NET */
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
 const cityInput = document.querySelector("#city-input");
